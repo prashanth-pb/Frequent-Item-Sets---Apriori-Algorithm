@@ -1,5 +1,5 @@
-# Frequent-Item-Sets---Apriori-Algorithm
-An implementation of the Apriori algorithm to find frequent item sets. Written in scala.
+# Frequent-Item-Sets---SON-Algorithm
+An implementation of the SON algorithm to find frequent item sets. Written in scala.
 
 This code has been tested with Scala ver **2.10.3** and JDK ver **1.8**
 
